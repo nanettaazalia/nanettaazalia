@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nanettaazalia
 - 👀 I’m interested in art and design
 - 🌱 I’m currently learning communication studies
-- 📫 nanettaazalia@gmail.com
+- 📫 email me at nanettaazalia@gmail.com
 
 <!---
 nanettaazalia/nanettaazalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
